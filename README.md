@@ -1,2 +1,0 @@
-# Survey_WFH
-freeCodeCamp
